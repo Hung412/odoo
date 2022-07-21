@@ -7757,8 +7757,8 @@ msgstr "Bút toán theo tháng"
 #: model_terms:ir.ui.view,arch_db:account.view_account_move_line_filter
 #: model_terms:ir.ui.view,arch_db:account.view_account_payment_form
 #, python-format
-msgid "Journal Entry"
-msgstr "Bút toán sổ nhật ký"
+msgid "<span>Journal Entry</span>"
+msgstr "<span>Bút toán sổ nhật ký</span>"
 
 #. module: account
 #: code:addons/account/models/account_payment.py:0

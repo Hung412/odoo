@@ -7282,7 +7282,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:account.view_account_move_line_filter
 #: model_terms:ir.ui.view,arch_db:account.view_account_payment_form
 #, python-format
-msgid "Journal Entry"
+msgid "<span>Journal Entry</span>"
 msgstr ""
 
 #. module: account
